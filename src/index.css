@@ -11,3 +11,65 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.head{
+  color: #79340e;
+}
+.table-container {
+  /* color: #030530; */
+  overflow-x: auto;
+}
+th,
+td {
+white-space: nowrap;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+table {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 50px !important;
+  -webkit-border-radius: 50px !important;
+  -moz-border-radius: 50px !important;
+  -ms-border-radius: 50px !important;
+  -o-border-radius: 50px !important;
+}
+thead{
+  background-color: #C85F27 !important;
+  color: white;
+}
+tr {
+  border-bottom: 1px solid #ccc;
+}
+th,
+td {
+  text-align: right;
+  padding: 8px;
+  white-space: nowrap;
+}
+tr:nth-child(even) {
+  background-color:#F9EFEA;
+  ;
+}
+
+.search{
+  width: 20% !important;
+  border: 1px solid #808AA180 !important;
+  padding: 10px;
+  border-radius: 35px !important;
+  -webkit-border-radius: 35px !important;
+  -moz-border-radius: 35px !important;
+  -ms-border-radius: 35px !important;
+  -o-border-radius: 35px !important;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
