@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khalid_rout_task/static/css/main.86435b96.css",
+    "main.js": "/khalid_rout_task/static/js/main.b39f31c4.js",
+    "static/js/453.2eb54c46.chunk.js": "/khalid_rout_task/static/js/453.2eb54c46.chunk.js",
+    "index.html": "/khalid_rout_task/index.html",
+    "main.86435b96.css.map": "/khalid_rout_task/static/css/main.86435b96.css.map",
+    "main.b39f31c4.js.map": "/khalid_rout_task/static/js/main.b39f31c4.js.map",
+    "453.2eb54c46.chunk.js.map": "/khalid_rout_task/static/js/453.2eb54c46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86435b96.css",
+    "static/js/main.b39f31c4.js"
+  ]
+}
